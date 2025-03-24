@@ -8,13 +8,13 @@ import textwrap
 
 # Configuration
 DB_HOST = "localhost"
-DB_USER = "Jacen"
-DB_PASSWORD = "Ljx@051021"
-DB_NAME = "buku_db"
+DB_USER = "example"
+DB_PASSWORD = "example"
+DB_NAME = "example"
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SENDER_EMAIL = 'jacen8239@gmail.com'
-APP_PASSWORD = 'ohum fcrv fryb mfnt' 
+SENDER_EMAIL = 'example@example.com'
+APP_PASSWORD = 'example' 
 
 # Connect to the MySQL database
 def connect_to_db():
