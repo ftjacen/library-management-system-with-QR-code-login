@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import mysql.connector
 from datetime import datetime, timedelta
 import smtplib
@@ -9,13 +8,13 @@ import textwrap
 
 # Configuration
 DB_HOST = "localhost"
-DB_USER = "example"
-DB_PASSWORD = "example"
-DB_NAME = "example"
+DB_USER = "Jacen"
+DB_PASSWORD = "Ljx@051021"
+DB_NAME = "buku_db"
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SENDER_EMAIL = 'example@example.com'
-APP_PASSWORD = 'example' 
+SENDER_EMAIL = 'jacen8239@gmail.com'
+APP_PASSWORD = 'yybr qhfc cqjs znis' 
 
 # Connect to the MySQL database
 def connect_to_db():
@@ -108,7 +107,7 @@ while True:
         time.sleep(60)  # Check every minute
     except Exception as e:
         print(f"An error occurred in the scheduler: {e}")
-=======
+
 import mysql.connector
 from datetime import datetime, timedelta
 import smtplib
@@ -218,4 +217,4 @@ while True:
         time.sleep(60)  # Check every minute
     except Exception as e:
         print(f"An error occurred in the scheduler: {e}")
->>>>>>> b5a8b6f (Initial commit)
+
