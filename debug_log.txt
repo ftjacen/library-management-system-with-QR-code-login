@@ -1,0 +1,612 @@
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Nama: Danial Muayyad Bin Muhammad Thiru
+Nombor IC: 070619-10-0923
+Kursus: Rangkaian Komputer
+Email: danilmuayyad@gmail.com
+Nombor Telefon: 011-64880170
+Parsed Info:
+Array
+(
+    [Nama] => Danial Muayyad Bin Muhammad Thiru
+    [Nombor IC] => 070619-10-0923
+    [Kursus] => Rangkaian Komputer
+    [Email] => danilmuayyad@gmail.com
+    [Nombor Telefon] => 011-64880170
+)
+
+ISBN key not found in scanned data!
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Scanned Data:
+Tajuk Buku: Microsoft Visio
+Penerbit: S.A. Majeed & Co. Sdn. Bhd.
+ISBN: 978-967-322-494-4
+Kuantiti Buku: 1
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Searching for ISBN: 978-967-322-494-4
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [Penerbit] => S.A. Majeed & Co. Sdn. Bhd.
+    [ISBN] => 978-967-322-494-4
+    [Kuantiti Buku] => 1
+)
+
+Parsed Info:
+Array
+(
+    [Microsoft Visio] => 
+)
+
+ISBN key not found in scanned data!
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Microsoft Visio
+    [ISBN] => 978-967-322-494-4
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Grafik Interaktif
+    [ISBN] => 978-967-0478-46-3
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+
+Parsed Info:
+Array
+(
+    [Tajuk Buku] => Kamus Kejuruteraan Elektrik
+    [ISBN] => 983-72-0372-2
+)
+

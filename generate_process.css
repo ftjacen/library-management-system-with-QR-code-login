@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+}
+.form-container {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;      /* Center vertically */
+    flex-direction: column;   /* Stack elements vertically */
+    height: 100vh;            /* Full viewport height */
+    text-align: center;     
+    width: 100%;
+    max-width: 420px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background: #f0f0f0;
+}
+img {
+    max-width: 200px;
+    margin: 15px 0;
+}
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.submit {
+    width: 100%;
+    max-width: 160px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    text-decoration: underline;
+    font-family: '1';
+}
+.form {
+    text-align: center;
+    font-family: '1';
+}
+
+.download {
+    display: block;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 30px auto; 
+    text-decoration: none;
+    font-family: '1';
+}
+
+.download:hover {
+    background: #0056b3;
+}
+
+@font-face {
+font-family: '1';
+src: url(fonts/Ubuntu-Regular.ttf);
+}

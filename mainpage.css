@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     * {
         margin: 0;
         padding: 0;
@@ -232,4 +233,240 @@
     @font-face {
         font-family: '3';
         src: url(fonts/SingleDay-Regular.ttf);
+=======
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        width: 100%;
+        background-image: url('images/2.jpg'); 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center; 
+    }
+
+    body::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.2); 
+        z-index: -1; 
+    }
+
+    .toper {
+        background-color: rgba(255, 255, 255, 0.4); 
+        width: 100%; 
+        height: 90px; 
+        position: fixed; 
+        top: 0;
+        left: 0;
+        line-height: 50px; 
+    }
+
+    .top {
+        position: absolute;
+        left: 120px;
+        top: 0;
+        width: 120px;
+        height: 90px;
+    }
+
+    .name {
+        position: absolute;
+        right: 15px;
+        top: 2px;
+        font-size: 25px;
+        font-family: '2';
+
+    }
+
+    .out {
+        display: inline;
+        position: absolute;
+        text-align: center;
+        right: 15px;
+        top: 36px;
+        color: black;
+        font-family: '3';
+        font-size: 22px;
+        border: 3px solid black;
+        border-radius: 10px;
+        margin-top: 10px;
+        line-height: 30px;
+        width: 110px;
+        white-space: nowrap;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+
+    .out:hover {
+        color: rgb(214, 25, 4);
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.4);
+        transform: scale(1.1); 
+    }
+
+    .notification {
+        position: fixed;
+        top: 110px;
+        left: 10px;
+        background-color: rgba(64, 246, 73, 0.6);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+        display: none; 
+        font-family: '1';
+    }
+
+    .abutton {
+        display: flex;
+        gap: 140px;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .button {
+        display: inline-block;
+        margin-bottom: 10px;
+        width: 600px;
+        height: 350px;
+        font-size: 50px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border: 6px solid black;
+        border-radius: 60px;
+        cursor: pointer;
+        text-align: center;
+        white-space: nowrap;
+        font-family: '2';
+        transition: all 0.3s ease;
+    }
+
+    .button a {
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+    }
+
+    .button a:hover {
+        color: rgb(98, 98, 98);
+    }
+
+    .button:hover {
+        transform: scale(1.1); 
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.8); 
+    }
+
+    footer {
+        position: absolute;
+        margin-bottom: 50px;
+    }
+
+    .bottom {
+        background-color: rgba(255, 255, 255, 0.4); 
+        width: 100%; 
+        height: 90px; 
+        position: fixed; 
+        bottom: 0;
+        left: 0;
+        line-height: 50px; 
+    }
+
+    .info {
+        position: absolute;
+        left: 120px;
+        bottom: 55px;
+        text-decoration: underline;
+        white-space: nowrap;
+        font-family: '1';
+    }
+
+    .email-icon {
+        position: absolute;
+        left: 65px;
+        bottom: 12px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .email{
+        position: absolute;
+        left: 120px;
+        bottom: 25px;
+        font-size: 17px;
+        font-family: '1';
+    }
+
+    .contact-icon {
+        position: absolute;
+        left: 358px;
+        bottom: 12px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .contact{
+        position: absolute;
+        left: 410px;
+        bottom: 25px;
+        white-space: nowrap;
+        font-size: 17px;
+        font-family: '1';
+    }
+
+    .insta-icon {
+        position: absolute;
+        left: 550px;
+        bottom: 14px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .insta {
+        display: inline-block;
+        position: absolute;
+        width: 170px;
+        padding: 5px;
+        left: 605px;
+        bottom: 20px;
+        color: black;
+        text-decoration: none;
+        border: 3px solid black;
+        border-radius: 12px;
+        font-size: 19px;
+        text-align: center;
+        white-space: nowrap;
+        font-family: '1';
+        transition: all 0.3s ease;
+    }
+
+    .insta:hover {
+        color: rgb(255, 255, 255);
+        transform: scale(1.1); 
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3); 
+    }
+    
+    @font-face {
+        font-family: '1';
+        src: url(fonts/Ubuntu-Regular.ttf);
+    }
+
+    @font-face {
+        font-family: '2';
+        src: url(fonts/LilitaOne-Regular.ttf);
+    }
+
+    @font-face {
+        font-family: '3';
+        src: url(fonts/SingleDay-Regular.ttf);
+>>>>>>> b5a8b6f (Initial commit)
     }

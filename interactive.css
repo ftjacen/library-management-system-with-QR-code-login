@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -323,4 +324,331 @@ footer {
 @font-face {
     font-family: '2';
     src: url(fonts/LilitaOne-Regular.ttf);
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    background-image: url('images/2.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2); 
+    z-index: -1; 
+}
+
+.toper {
+    background-color: rgba(255, 255, 255, 0.4); 
+    width: 100%; 
+    height: 90px; 
+    position: fixed; 
+    top: 0;
+    left: 0;
+    line-height: 50px; 
+}
+
+.top {
+    position: absolute;
+    left: 120px;
+    top: 0;
+    width: 120px;
+    height: 90px;
+}
+
+.notification {
+  position: fixed;
+  top: 20px;
+  right: 662px;
+  background-color: rgba(255, 53, 53, 0.6);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  display: none; 
+  font-family: '1';
+  font-size: 18px;
+}
+
+.name {
+  position: absolute;
+  right: 20px;
+  top: 28px;
+  font-size: 25px;
+  font-family: '2';
+
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding: 35px;
+    text-align: center;
+}
+
+.bottom {
+    background-color: rgba(255, 255, 255, 0.4); 
+    width: 100%; 
+    height: 90px; 
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    line-height: 50px; 
+}
+
+.info {
+    position: absolute;
+    left: 120px;
+    bottom: 55px;
+    text-decoration: underline;
+    white-space: nowrap;
+    font-family: '1';
+}
+
+.email-icon {
+    position: absolute;
+    left: 65px;
+    bottom: 12px;
+    width: 48px;
+    height: 48px;
+}
+
+.email{
+    position: absolute;
+    left: 120px;
+    bottom: 25px;
+    font-size: 17px;
+    font-family: '1';
+}
+
+.contact-icon {
+    position: absolute;
+    left: 358px;
+    bottom: 12px;
+    width: 48px;
+    height: 48px;
+}
+
+.contact{
+    position: absolute;
+    left: 410px;
+    bottom: 25px;
+    white-space: nowrap;
+    font-size: 17px;
+    font-family: '1';
+}
+
+.insta-icon {
+    position: absolute;
+    left: 550px;
+    bottom: 14px;
+    width: 48px;
+    height: 48px;
+}
+
+.insta {
+    display: inline-block;
+    position: absolute;
+    width: 170px;
+    padding: 5px;
+    left: 605px;
+    bottom: 20px;
+    color: black;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 12px;
+    font-size: 19px;
+    text-align: center;
+    white-space: nowrap;
+    font-family: '1';
+    transition: all 0.3s ease;
+}
+
+.insta:hover {
+    color: rgb(255, 255, 255);
+    transform: scale(1.1); 
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3); 
+}
+
+.book {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color:black;
+    width: 270px;
+    white-space: nowrap;
+    margin-left: 20px;
+    padding: 10px
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 300px 1fr; 
+  gap: 20px; 
+  align-items: start; 
+}
+.bookreader {
+  width: 100%; 
+  height: auto; 
+}
+.form-content {
+  display: flex;
+  flex-direction: column; 
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 950px;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #333;
+    font-family: '1';
+  }
+  
+  .title {
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    color: #000000;
+  }
+  
+  .title::before {
+    width: 18px;
+    height: 18px;
+  }
+  
+  .title::after {
+    width: 18px;
+    height: 18px;
+    animation: pulse 1s linear infinite;
+  }
+  
+  .title::before,
+  .title::after {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    left: 0px;
+    background-color: #000000;
+  }
+  
+  .message, 
+  .signin {
+    font-size: 14.5px;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .form label {
+    position: relative;
+  }
+  
+  .form label .input {
+    background-color: #ffffff;
+    color: #000000;
+    width: 100%;
+    padding: 20px 05px 05px 10px;
+    outline: 0;
+    border: 1px solid rgba(105, 105, 105, 0.397);
+    border-radius: 10px;
+  }
+  
+  .form label .input + span {
+    color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 10px;
+    top: 13px;
+    font-size: 0.9em;
+    cursor: text;
+    transition: 0.3s ease;
+  }
+  
+  .form label .input:placeholder-shown + span {
+    top: 12.5px;
+    font-size: 0.9em;
+  }
+  
+  .form label .input:focus + span,
+  .form label .input:valid + span {
+    color: #000000;
+    top: 0px;
+    font-size: 0.7em;
+    font-weight: 600;
+  }
+  
+  .input {
+    font-size: medium;
+  }
+  
+  .submit {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    transform: .3s ease;
+    background-color: #000000;
+  }
+  
+  .submit:hover {
+    background-color: #00000096;
+  }
+  
+  @keyframes pulse {
+    from {
+      transform: scale(0.9);
+      opacity: 1;
+    }
+  
+    to {
+      transform: scale(1.8);
+      opacity: 0;
+    }
+  }
+
+@font-face {
+    font-family: '1';
+    src: url(fonts/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: '2';
+    src: url(fonts/LilitaOne-Regular.ttf);
+>>>>>>> b5a8b6f (Initial commit)
 }
