@@ -1,1 +1,5 @@
+node_modules/
+debug_log.txt
+book_qrcodes/
+student_qrcodes/
 .env
