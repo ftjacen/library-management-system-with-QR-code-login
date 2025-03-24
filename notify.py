@@ -14,7 +14,11 @@ DB_NAME = "buku_db"
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 SENDER_EMAIL = 'jacen8239@gmail.com'
+<<<<<<< HEAD
 APP_PASSWORD = 'yybr qhfc cqjs znis' 
+=======
+APP_PASSWORD = 'kthg zqyx pwmy axxl' 
+>>>>>>> 95b0b6d (Removed exposed SMTP credentials and added .env support)
 
 # Connect to the MySQL database
 def connect_to_db():
