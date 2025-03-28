@@ -21,11 +21,13 @@ Web Server: Install XAMPP or a similar web server solution.
 
 Database: Import the provided SQL file into your MySQL database to set up the necessary tables.
 
+
 Configure the Project:
 
 Place the project files in the appropriate directory of your web server (e.g., htdocs for XAMPP).
 
 Update the database configuration settings in the project to match your setup.
+
 
 Usage
 Generate QR Codes:
@@ -43,6 +45,7 @@ Borrow and return books through the system interface.
 Receive Notifications:
 
 Users will receive notifications as their book return due dates approach.
+
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
